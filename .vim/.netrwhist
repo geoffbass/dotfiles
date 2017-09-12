@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/Users/geoffreybass/Fullstack/Teaching/1707-RM/checkpoints/checkpoint-senior/Sara_Helba/server/models'
+let g:netrw_dirhist_2='/Users/geoffreybass/Fullstack/Teaching/1707-RM/checkpoints/checkpoint-senior/Sara_Helba'
+let g:netrw_dirhist_3='/Users/geoffreybass/Fullstack/Teaching/1707-RM/checkpoints/checkpoint-senior/Sara_Helba/server'
+let g:netrw_dirhist_4='/Users/geoffreybass/Fullstack/Teaching/1707-RM/checkpoints/checkpoint-senior/Sara_Helba/server/models'
+let g:netrw_dirhist_5='/Users/geoffreybass/Fullstack/Teaching/1707-RM/checkpoints/checkpoint-senior/Sara_Helba'
+let g:netrw_dirhist_6='/Users/geoffreybass/Fullstack/Teaching/1707-RM/checkpoints/checkpoint-senior/Sara_Helba/server'
+let g:netrw_dirhist_7='/Users/geoffreybass/Fullstack/Teaching/1707-RM/checkpoints/checkpoint-senior/Sara_Helba/server/routes'
+let g:netrw_dirhist_8='/Users/geoffreybass/Fullstack/Teaching/1707-RM/checkpoints/checkpoint-senior/Sara_Helba'
